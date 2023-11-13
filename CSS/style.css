@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #0756aa;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+.contenedor{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.contenedor button{
+    padding: 3px 10px;
+    border-radius: 5px;
+    background-color: #0756aa;
+    color: #fff;
+    font-size: 1.5em;
+    cursor: pointer;
+}
