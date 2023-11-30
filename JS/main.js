@@ -1,6 +1,6 @@
 //PRE CARGA DE VALORES PARA EL USO DE LA APLICACION
 document.addEventListener('DOMContentLoaded', function () {
-    //CARGA DE VARIABLES PARA EL PRIMER USO DE LA APP
+    //CARGA DE VARIABLES PARA EL PRIMER USO DE LA APP 
     let listaVehiculos = [{ 
             'id': 1,
             'tipo': 'Camioneta',

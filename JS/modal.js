@@ -7,7 +7,7 @@ const openModal = function () {
     modal.classList.remove("hidden");
     overlay.classList.remove("hidden");
 };
-
+ 
 openModalBtn.addEventListener("click", openModal);
 
 const closeModal = function () {
